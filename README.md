@@ -1,4 +1,4 @@
-# Flutter project to make custom m arker in google maps
+# Flutter project to make custom marker in google maps
 
 ## <a href="https://youtu.be/N1_5Y1jxzF0"> Watch on youtube </a>
 
